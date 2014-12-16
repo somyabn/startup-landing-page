@@ -113,7 +113,7 @@ section {
 }
 
 .introduction {
-    background-image: url('https://github.com/somyabn/startup-landing-page/blob/gh-pages/images/first-background.jpg');
+    background-image: url("https://github.com/somyabn/startup-landing-page/blob/gh-pages/images/first-background.jpg");
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
